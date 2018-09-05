@@ -24,15 +24,6 @@
 // to "PWM-" PIN 3 based on the value read from a Potentiometer connected to
 // "ANALOG INPUT" PIN 0 on a Arduino framework.
 //
-// As far as hardware goes, the following components are is required:
-// 
-// 1 x Arduino Framework
-// 1 x Breadboard
-// 5 x Cable
-// 1 x 120^omhs Resistor
-// 1 x Potentiometer (5v)
-// 1 x LED
-//
 // You can see how these components connect to each other by opening the
 // "arduino.jpg" image included in this repository.
 // ----------------------------------------------------------------------------- 
